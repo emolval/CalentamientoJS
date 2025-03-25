@@ -1,3 +1,4 @@
 window.addEventListener('load', function(event) {
-    let ejercicio1 = -4
+    let numero = -4;
+    let palabra = "Hola Mundo";
 });
