@@ -32,6 +32,8 @@ window.addEventListener('load', function(event) {
     console.log(num1 + num2);
 
     // 10. Muestra por consola la resta de ambas variables.
+    console.log(num1 - num2);
+
     // 11. Muestra por consola la multiplicación de ambas variables.
     // 12. Muestra por consola la división de ambas variables.
     // 13. Muestra por consola la módulo de ambas variables.
