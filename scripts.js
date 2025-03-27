@@ -47,5 +47,5 @@ window.addEventListener('load', function(event) {
     let nombre = "Elias";
 
     // 15. Muestra por consola el JAVASCRIPT texto Hola concatenado con el valor de la variable anterior.
-    
+    console.log("Hola " + nombre);
 });
