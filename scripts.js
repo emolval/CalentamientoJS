@@ -23,7 +23,11 @@ window.addEventListener('load', function(event) {
     console.log(palabra);
     console.log(respuesta);
     console.log(PI);
+
     // 8. Declara 2 variables y asigna los valores 5 y 2 respectivamente
+    let num1 = 5;
+    let num2 = 2;
+    
     // 9. Muestra por consola la suma de ambas variables.
     // 10. Muestra por consola la resta de ambas variables.
     // 11. Muestra por consola la multiplicación de ambas variables.
