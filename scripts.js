@@ -1,7 +1,7 @@
 window.addEventListener('load', function(event) {
     // 1. Una variable numero cuyo valor sea -4.
     let numero = -4;
-    
+
     // 2. Una variable palabra cuyo valor sea ”Hola Mundo”
     let palabra = "Hola Mundo";
 
@@ -19,6 +19,10 @@ window.addEventListener('load', function(event) {
     // Sin embargo, si usamos "var", la variable se eleva (hoisting) pero tendrá un valor de "undefined" hasta que se le asigne un valor.
 
     // 7. Muestra por consola cada una de las variables. Usa console.log(nombre_variable); 
+    console.log(numero);
+    console.log(palabra);
+    console.log(respuesta);
+    console.log(PI);
     // 8. Declara 2 variables y asigna los valores 5 y 2 respectivamente
     // 9. Muestra por consola la suma de ambas variables.
     // 10. Muestra por consola la resta de ambas variables.
