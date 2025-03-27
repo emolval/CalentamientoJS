@@ -27,8 +27,10 @@ window.addEventListener('load', function(event) {
     // 8. Declara 2 variables y asigna los valores 5 y 2 respectivamente
     let num1 = 5;
     let num2 = 2;
-    
+
     // 9. Muestra por consola la suma de ambas variables.
+    console.log(num1 + num2);
+
     // 10. Muestra por consola la resta de ambas variables.
     // 11. Muestra por consola la multiplicación de ambas variables.
     // 12. Muestra por consola la división de ambas variables.
