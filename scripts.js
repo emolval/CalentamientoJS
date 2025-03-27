@@ -41,6 +41,8 @@ window.addEventListener('load', function(event) {
     console.log(num1 / num2);
 
     // 13. Muestra por consola la módulo de ambas variables.
+    console.log(num1 % num2);
+
     // 14. Declara una variable cuyo valor sea tu nombre.
     // 15. Muestra por consola el JAVASCRIPT texto Hola concatenado con el valor de la variable anterior.
     
